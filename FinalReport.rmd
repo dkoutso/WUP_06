@@ -73,6 +73,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
+from this plot, it appears that the white race is in favor of the   cappun punishment as regard to the black or the other races.  
 
 
 ### Numerical Descriptive Results
@@ -89,6 +90,8 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
+
+from the numerical data, it appears that the white race has a value   of 67.98 in favor and 32.02 that opposes, the black race has 46.29   in favor and 53.71 that opposes and the other races has a 55.87 in   favor and a 44.13 that opposes.  
 
 
 ## Inferential Results
