@@ -110,6 +110,8 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+The p-value for the chi-squared testr was 0.000000000000001. This is quite small, so we reject the null hypothesis.  
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
@@ -118,3 +120,8 @@ fisherXY(mydata$cappun,mydata$race)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The question is ;Is attitude toward capitol punishment (cappun) independent of race (race)?    
+The answer is , the attitude towards Capitol punishment(cappun) is independent of race. 
+
+
