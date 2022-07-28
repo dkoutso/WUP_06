@@ -116,8 +116,9 @@ The p-value for the chi-squared testr was 0.000000000000001. This is quite small
 fisherXY(mydata$cappun,mydata$race)
 ```
  
-the Fisher exact tests tells which races differ on opinion of capital punishment.  
-
+the Fisher exact tests tells us that the whites are mostly in favor of capitol punishment as compared to the blacks and the other races.  
+the p-value of the fisher's exact test is 0.02479 which is less than 0.05, so we reject the null hypothesis.  
+The odds ratio show us that there are 0.68 chances that The attitude towards capitol punishment depends on the race.  
 
 # Discussion and Conclusion
 
