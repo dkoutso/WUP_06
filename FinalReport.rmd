@@ -120,6 +120,7 @@ the Fisher exact tests tells us that the whites are mostly in favor of capitol p
 the p-value of the fisher's exact test is 0.02479 which is less than 0.05, so we reject the null hypothesis.  
 The odds ratio show us that there are 0.68 chances that The attitude towards capitol punishment depends on the race.  
 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
